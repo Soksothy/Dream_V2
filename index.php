@@ -4,4 +4,5 @@
     echo "sixxxx";
 
 ?>
+<?= "Now you learn then you remove L" ;?>
 
